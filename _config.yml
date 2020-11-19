@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Steinfeld"
+title                    : "Jacopo Riboldi"
 title_separator          : "-"
-name                     : "Daniel Steinfeld"
-description              : "PhD in Atmospheric and Climate Science at ETH Zurich"
-url                      : "https://steidani.github.io"
+name                     : "Jacopo Riboldi"
+description              : "PostDoc in Meteorology at LMD-ENS Paris"
+url                      : "https://jriboldi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "steidani/steidani.github.io"
+repository               : "jriboldi/jriboldi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : "steidani1"
 facebook:
   username               :
   app_id                 :
@@ -80,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Steinfeld"
+  name             : "Jacopo Riboldi"
   avatar           : "pic_me.jpg"
   bio              : "PhD in Atmospheric and Climate Science at ETH Zurich"
-  location         :
+  location         : "Paris, France"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "dani_steinfeld@hotmail.com"
+  email            : "jacopo.riboldi@lmd.ipsl.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +94,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "steidani"
+  github           : "jriboldi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "steidani"
-  orcid            :
+  linkedin         : 
+  orcid            : "https://orcid.org/0000-0001-5166-9618"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "steidani1"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

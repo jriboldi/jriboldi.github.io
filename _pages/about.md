@@ -8,16 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+Welcome to my personal page!
 
-Hi, I am Daniel.  
+I am a researcher in Atmospheric and Climate Sciences at the Laboratoire de Météorologie Dynamique, in Paris. I obtained my doctorate in Atmospheric Dynamics at [ETH Zurich](https://iac.ethz.ch/group/atmospheric-dynamics.html) in February 2018. 
 
-I obtained a PhD in Atmospheric and Climate Science at [ETH Zurich](https://iac.ethz.ch/group/atmospheric-dynamics.html) in May 2019.   
-The focus of my research was on atmospheric and climate dynamics, aimed at analysing physical processes governing the large-scale circulation and high-impact weather phenomena such as atmospheric blocking and windstorms.  
+In my research I try to tackle climate change issues from a **weather system perspective**, grounded in synoptic meteorology. In this view, cyclones and anticyclones are the building blocks of the daily evolution of the weather and, on the long run, of the climate. Understanding the characteristics and variability of weather systems can cast light on long-term climate trends and help to better describe and predict the extreme weather events caused by anthropogenic global warming. 
 
-You can find some of my current projects here: [https://github.com/steidani](https://github.com/steidani)
-
-I am currently working as a NatCat Risk Modeler for a Swiss insurance company.  
-
-
-![](http://steidani.github.io/images/animation_blocking.gif)
+![](http://jriboldi.github.io/images/dennis_geoptanom250_wrtFeb2020_msl_loop.gif)
 
