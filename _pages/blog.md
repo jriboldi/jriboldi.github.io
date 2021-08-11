@@ -1,5 +1,5 @@
 ---
-permalink: /blog/
+permalink: /year_archive/
 title: "Updates"
 author_profile: true
 ---
