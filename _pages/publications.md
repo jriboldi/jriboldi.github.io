@@ -6,11 +6,13 @@ author_profile: true
 
 
 Articles (peer-reviewed)
----------------
+------------------------------
+
+-  Riboldi, J., E. Rousi, F. D'Andrea, G. Rivière, and F. Lott: [Circumglobal Rossby wave patterns during boreal winter highlighted by wavenumber/phase speed spectral analysis](https://doi.org/10.5194/wcd-2021-59), Weather Clim. Dynam. [accepted], https://doi.org/10.5194/wcd-2021-59, 2022. Access the accepted version [here](https://jriboldi.github.io/files/Riboldi_etal_2022_CRWP_paper_WCD.pdf).
 
 - Riboldi, J., F. Lott, F. D'Andrea, and G. Rivière, 2020: [On the linkage between Rossby wave phase speed, atmospheric blocking, and Arctic amplification](https://doi.org/10.1029/2020GL087796). Geophysical Research Letters, 47, e2020GL087796, doi:10.1029/2020GL087796.
 
-- Attinger, R., J. Keller, M. Köhler, J. Riboldi, and C. M. Grams, 2019: [Representation of atmospheric blocking in the new global non-hydrostatic weather prediction model ICON](doi:10.1127/metz/2019/0967), Meteorologische Zeitschrift, 28, 429-446, doi:10.1127/metz/2019/0967
+- Attinger, R., J. Keller, M. Köhler, J. Riboldi, and C. M. Grams, 2019: [Representation of atmospheric blocking in the new global non-hydrostatic weather prediction model ICON](https://doi.org/10.1127/metz/2019/0967), Meteorologische Zeitschrift, 28, 429-446, doi:10.1127/metz/2019/0967
 
 - Pohorsky, R., M. Röthlisberger, C.M. Grams, J. Riboldi, and O. Martius, 2019: [The Climatological Impact of Recurving North Atlantic Tropical Cyclones on Downstream Extreme Precipitation Events](https://doi.org/10.1175/MWR-D-18-0195.1). Monthly Weather Review, 147, 1513–1532, doi:10.1175/MWR-D-18-0195.1
 
