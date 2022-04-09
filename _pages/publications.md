@@ -5,10 +5,17 @@ author_profile: true
 ---
 
 
+Submitted
+------------------------------
+
+- Faranda, D., G. Messori, S. Bourdin, M. Vrac, S. Thao, J. Riboldi, S. Fromang, and P. Yiou: [Correcting biases in tropical cyclone intensities in low-resolution datasets using dynamical systems metrics](https://hal.archives-ouvertes.fr/hal-03631098) 2022. Submitted to Monthly Weather Review. Preprint available [here](https://hal.archives-ouvertes.fr/hal-03631098).
+
+- Leeding, R., J. Riboldi and G. Messori: [On Pan-Atlantic Cold, Wet and Windy Compound Extremes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4040707). Submitted to Weather and Climate Extremes. Preprint available [here](http://dx.doi.org/10.2139/ssrn.4040707). 
+
 Articles (peer-reviewed)
 ------------------------------
 
--  Riboldi, J., E. Rousi, F. D'Andrea, G. Rivière, and F. Lott: [Circumglobal Rossby wave patterns during boreal winter highlighted by wavenumber/phase speed spectral analysis](https://doi.org/10.5194/wcd-2021-59), Weather Clim. Dynam. [accepted], https://doi.org/10.5194/wcd-2021-59, 2022. Access the accepted version [here](https://jriboldi.github.io/files/Riboldi_etal_2022_CRWP_paper_WCD.pdf).
+-  Riboldi, J., E. Rousi, F. D'Andrea, G. Rivière, and F. Lott: [Circumglobal Rossby wave patterns during boreal winter highlighted by space/time spectral analysis](https://doi.org/10.5194/wcd-2021-59), Weather Clim. Dynam., 3, 449-469, https://doi.org/10.5194/wcd-3-449-2022, 2022. 
 
 - Riboldi, J., F. Lott, F. D'Andrea, and G. Rivière, 2020: [On the linkage between Rossby wave phase speed, atmospheric blocking, and Arctic amplification](https://doi.org/10.1029/2020GL087796). Geophysical Research Letters, 47, e2020GL087796, doi:10.1029/2020GL087796.
 
