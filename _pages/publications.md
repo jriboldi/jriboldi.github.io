@@ -15,7 +15,7 @@ Submitted
 Articles (peer-reviewed)
 ------------------------------
 
--  Riboldi, J., E. Rousi, F. D'Andrea, G. Rivière, and F. Lott, 2022: [Circumglobal Rossby wave patterns during boreal winter highlighted by space/time spectral analysis](https://doi.org/10.5194/wcd-2021-59), Weather Clim. Dynam., 3, 449-469, https://doi.org/10.5194/wcd-3-449-2022. 
+-  Riboldi, J., E. Rousi, F. D'Andrea, G. Rivière, and F. Lott, 2022: [Circumglobal Rossby wave patterns during boreal winter highlighted by space/time spectral analysis](https://doi.org/10.5194/wcd-3-449-2022), Weather Clim. Dynam., 3, 449-469, https://doi.org/10.5194/wcd-3-449-2022. 
 
 - Riboldi, J., F. Lott, F. D'Andrea, and G. Rivière, 2020: [On the linkage between Rossby wave phase speed, atmospheric blocking, and Arctic amplification](https://doi.org/10.1029/2020GL087796). Geophysical Research Letters, 47, e2020GL087796, doi:10.1029/2020GL087796.
 
