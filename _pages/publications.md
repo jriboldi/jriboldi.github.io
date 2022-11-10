@@ -8,12 +8,13 @@ author_profile: true
 Submitted
 ------------------------------
 
-- Faranda, D., G. Messori, S. Bourdin, M. Vrac, S. Thao, **J. Riboldi**, S. Fromang, and P. Yiou: [Correcting biases in tropical cyclone intensities in low-resolution datasets using dynamical systems metrics](https://hal.archives-ouvertes.fr/hal-03631098), 2022. Submitted to Monthly Weather Review. Preprint available [here](https://hal.archives-ouvertes.fr/hal-03631098).
+- Faranda, D., G. Messori, S. Bourdin, M. Vrac, S. Thao, **J. Riboldi**, S. Fromang, and P. Yiou: [Correcting biases in tropical cyclone intensities in low-resolution datasets using dynamical systems metrics](https://hal.archives-ouvertes.fr/hal-03631098), 2022. In review at Climate Dynamics. Preprint available [here](https://hal.archives-ouvertes.fr/hal-03631098).
 
-- Leeding, R., **J. Riboldi** and G. Messori: [On Pan-Atlantic Cold, Wet and Windy Compound Extremes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4040707), 2022. Submitted to Weather and Climate Extremes. Preprint available [here](http://dx.doi.org/10.2139/ssrn.4040707). 
 
 Articles (peer-reviewed)
 ------------------------------
+
+- Leeding, R., **J. Riboldi** and G. Messori: [On Pan-Atlantic cold, wet and windy compound extremes](https://doi.org/10.1016/j.wace.2022.100524), 2022. Weather and Climate Extremes, in press. 
 
 -  **Riboldi, J.**, E. Rousi, F. D'Andrea, G. Rivière, and F. Lott, 2022: [Circumglobal Rossby wave patterns during boreal winter highlighted by space/time spectral analysis](https://doi.org/10.5194/wcd-3-449-2022), Weather and Climate Dynamics, 3, 449-469, https://doi.org/10.5194/wcd-3-449-2022. 
 
