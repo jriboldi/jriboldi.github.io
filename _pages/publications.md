@@ -8,13 +8,17 @@ author_profile: true
 Submitted
 ------------------------------
 
-- **Riboldi, J.**, R. Leeding, A. Segalini, and G. Messori: [Multiple large-scale pathways for pan-Atlantic compound cold and windy extremes](https://essopenarchive.org/doi/full/10.22541/essoar.167108815.57535236/v1). In revision at Geophysical Research Letters. Preprint available [here](https://essopenarchive.org/doi/full/10.22541/essoar.167108815.57535236/v1).
+- Segalini, A., **J. Riboldi**, V. Wirth and G. Messori: [A linear assessment of waveguidability for barotropic Rossby waves in different large-scale flow configurations](https://doi.org/10.5194/egusphere-2023-316). In revision for Weather and Climate Dynamics Discussions, available [here](https://doi.org/10.5194/egusphere-2023-316)
 
-- Faranda, D., G. Messori, S. Bourdin, M. Vrac, S. Thao, **J. Riboldi**, S. Fromang, and P. Yiou: [Correcting biases in tropical cyclone intensities in low-resolution datasets using dynamical systems metrics](https://hal.archives-ouvertes.fr/hal-03631098). In revision at Climate Dynamics. Preprint available [here](https://hal.archives-ouvertes.fr/hal-03631098).
-
+- Leeding, R., **J. Riboldi** and G. Messori: [North American Cold Spells Modulate North Atlantic Extratropical Cyclones and Extreme Weather in Europe](http://dx.doi.org/10.2139/ssrn.4429280), 2023. In revision for Weather and Climate Extremes, preprint available [here](http://dx.doi.org/10.2139/ssrn.4429280). 
+ 
 
 Articles (peer-reviewed)
 ------------------------------
+
+- **Riboldi, J.**, R. Leeding, A. Segalini, and G. Messori, 2023: [Multiple large-scale pathways for pan-Atlantic compound cold and windy extremes](https://doi.org/10.1029/2022GL102528). Geophysical Research Letters, 50, e2022GL102528.
+
+- Faranda, D., G. Messori, S. Bourdin, M. Vrac, S. Thao, **J. Riboldi**, S. Fromang, and P. Yiou, 2023: [Correcting biases in tropical cyclone intensities in low-resolution datasets using dynamical systems metrics](https://doi.org/10.1007/s00382-023-06794-8). Climate Dynamics, doi:10.1007/s00382-023-06794-8.
 
 - Lucarini, V., V. M. Galfi, **J. Riboldi**, and G. Messori, 2023: [Typicality of the 2021 Western North America summer heatwave](https://dx.doi.org/10.1088/1748-9326/acab77). Environmental Research Letters, 18, 015004, doi:10.1088/1748-9326/acab77.
 
