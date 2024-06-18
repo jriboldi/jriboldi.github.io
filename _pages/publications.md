@@ -8,15 +8,16 @@ author_profile: true
 Submitted
 ------------------------------
 
-- Segalini, A., **J. Riboldi**, V. Wirth and G. Messori: [A linear assessment of waveguidability for barotropic Rossby waves in different large-scale flow configurations](https://doi.org/10.5194/egusphere-2023-316). In revision for Weather and Climate Dynamics Discussions, available [here](https://doi.org/10.5194/egusphere-2023-316)
-
-- Leeding, R., **J. Riboldi** and G. Messori: [North American Cold Spells Modulate North Atlantic Extratropical Cyclones and Extreme Weather in Europe](http://dx.doi.org/10.2139/ssrn.4429280), 2023. In revision for Weather and Climate Extremes, preprint available [here](http://dx.doi.org/10.2139/ssrn.4429280). 
- 
+- Segalini, A., **J. Riboldi**, V. Wirth and G. Messori, 2024: [A linear assessment of barotropic Rossby wave propagation in different large-scale flow configurations](https://doi.org/10.5194/egusphere-2023-316). Accepted at Weather and Climate Dynamics, available [here](https://doi.org/10.5194/egusphere-2023-316) 
 
 Articles (peer-reviewed)
 ------------------------------
 
-- **Riboldi, J.**, R. Leeding, A. Segalini, and G. Messori, 2023: [Multiple large-scale pathways for pan-Atlantic compound cold and windy extremes](https://doi.org/10.1029/2022GL102528). Geophysical Research Letters, 50, e2022GL102528.
+- Schutte, M., D. I. V. Domeisen, and **J. Riboldi**, 2024: [Opposite spectral properties of Rossby waves during weak and strong stratospheric polar vortex events](https://wcd.copernicus.org/articles/5/733/2024/). Weather and Climate Dynamics, 5, 733-752, doi:10.5194/wcd-5-733-2024.
+
+- Leeding, R., **J. Riboldi** and G. Messori, 2023: [North American Cold Spells Modulate North Atlantic Extratropical Cyclones and Extreme Weather in Europe](http://dx.doi.org/10.2139/ssrn.4429280). Weather and Climate Extremes, 42, 100629, doi:10.1016/j.wace.2023.100629. 
+
+- **Riboldi, J.**, R. Leeding, A. Segalini, and G. Messori, 2023: [Multiple large-scale pathways for pan-Atlantic compound cold and windy extremes](https://doi.org/10.1029/2022GL102528). Geophysical Research Letters, 50, e2022GL102528, doi:10.1029/2022GL102528.
 
 - Faranda, D., G. Messori, S. Bourdin, M. Vrac, S. Thao, **J. Riboldi**, S. Fromang, and P. Yiou, 2023: [Correcting biases in tropical cyclone intensities in low-resolution datasets using dynamical systems metrics](https://doi.org/10.1007/s00382-023-06794-8). Climate Dynamics, doi:10.1007/s00382-023-06794-8.
 
